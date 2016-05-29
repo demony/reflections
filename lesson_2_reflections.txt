@@ -6,3 +6,12 @@ How is the staging area different from the working directory and the repository?
 	
 	Staging aria is a temorary place before where we plece files before making a commit into repository.
 	I offers us put many files into repository at once.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Se answer for previous question
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	It helps when you want make some experimental changes of new functionality and don't realy know for now if it realy will be 
+	further in your project
