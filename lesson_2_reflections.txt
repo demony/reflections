@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
-When i initialize a repository the .git folder is creaded and after that git can track all changes in this folder
+	
+	When i initialize a repository the .git folder is creaded and after that git can track all changes in this folder
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	Staging aria is a temorary place before where we plece files before making a commit into repository.
+	I offers us put many files into repository at once.
