@@ -20,3 +20,7 @@ How do the diagrams help you visualize the branch structure?
 	
 	The diagrams helps to see varieties of branches of our code in code tree.
 	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	
+	The result of merging two branches is one branch with all changes from other brunches. 
+	
