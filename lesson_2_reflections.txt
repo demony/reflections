@@ -24,3 +24,7 @@ What is the result of merging two branches together? Why do we represent it in t
 	
 	The result of merging two branches is one branch with all changes from other brunches. 
 	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	It's really great that git can automatically do merges. It helps to save many time.
+	
